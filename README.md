@@ -1,2 +1,2 @@
 # odin-recipes
-This file contains html recipes.
+This file contains html recipes. For test purposes.
